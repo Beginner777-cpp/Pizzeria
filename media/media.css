@@ -1,0 +1,392 @@
+@media(max-width:917px){
+    .main_top_title{
+font-size: 25px;
+    }
+    .main_button{
+        font-size: 12px;
+    }
+    .main_menu_text{
+        font-size: 10px;
+    }
+    .main_menu_item_title{
+        font-size: 20px;
+    }
+    .price_num{
+        font-size: 20px;
+    }
+}
+@media(max-width:795px){
+            .main_button{
+                font-size: 12px;
+                padding:10px 15px;
+            }
+} 
+@media(max-width:770px){
+            .main_button{
+                font-size: 10px;
+            }
+            .price_num{
+                font-size: 15px;
+            }
+}
+@media(max-width:755px){
+    .main_menu_text{
+        font-size: 8px;
+    }
+    .main_menu_item_title{
+        font-size: 15px;
+    }
+}
+@media(max-width:710px){
+.main_menu_item_img{
+    width: 300px;
+    height: 200px;
+}
+}
+@media(max-width:660px){
+    .main_menu_item_img{
+        width: 250px;
+        height: 150px;
+    }
+    .main_top_title{
+        font-size: 20px;
+        margin-bottom: 40px;
+            }
+    .main_top_text{
+        font-size: 14px;
+        line-height: 30px;
+            }
+    .main_top_name{
+        font-size: 20px;
+    }
+}
+@media(max-width:630px){
+        .header_logo{
+        font-size: 20px;
+        }
+        .phone{
+            font-size: 18px;
+            margin-right:30px;
+        }
+
+        .header_bottom{
+        line-height: 30px;
+        }
+        .header_bottom_text{
+            font-size: 14px;
+        }
+        .header_bottom_title{
+            font-size: 42px;
+            
+        }
+        .header_bottom_price{
+            font-size: 14px;
+        }
+        .header_bottom_button{
+            font-size: 14px;
+            padding:14px 20px;
+        }
+}
+@media(max-width:608px){
+    .main_top_name{
+        font-size: 15px;
+    }
+    .main_top_text{
+        font-size: 10px;
+        line-height: 20px;
+            }
+    .main_top_sign_img{
+        width:102px;
+        height:103px;
+    }
+    .main_top_title{
+        margin-bottom: 20px;
+    }
+
+    .comment_title{
+    font-size: 12px;
+    margin-bottom: 10px;
+    }
+    .comment_text{
+    font-size: 10px;
+    line-height: 20px;
+    }
+    .comment_img{
+        margin-bottom: 28px;
+        width:100%;
+    }
+    .main_menu_item_img{
+        width: 200px;
+        height: 120px;
+    }
+
+    .discount_img{
+        width:30px;
+        height:30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 10px;
+    }
+}
+@media(max-width:560px){
+    .comment_title{
+        font-size: 10px;
+        margin-bottom: 8px;
+        }
+    .comment_text{
+        font-size: 8px;
+        line-height: 15px;
+        }
+    .header_logo{
+        font-size: 15px;
+        }
+        .phone{
+            font-size: 12px;
+            margin-right:20px;
+        }
+        .header_button{
+        padding:8px 15px;
+        border-radius:50px;
+        font-size: 10px;
+        }
+        .footer_bottom{
+            padding-bottom: 34px;
+            font-size: 10px;
+        } 
+        .header_bottom_title{
+            font-size: 30px;
+            
+        }
+        .header_bottom_price{
+            font-size: 10px;
+        }
+        .header_bottom_button{
+            font-size: 10px;
+            padding:5px 8px;
+        }
+        .main_button{
+            font-size: 8px;
+        }
+        .price_num{
+            font-size: 12px;
+        }
+        .price{
+            font-size: 10px;
+        }
+        .main_menu_item_img{
+            width: 150px;
+            height: 80px;
+        }
+    
+        .discount_img{
+            width:20px;
+            height:20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 8px;
+        }
+        .main_top_title{
+            margin-bottom: 15px;
+            font-size: 15px;
+        }
+        .main_top_text{
+            font-size: 8px;
+            line-height: 15px;
+        }
+        .main_top_name{
+            font-size: 12px;
+        }
+        .main_top_sign_img{
+            width:82px;
+            height:83px;
+        }
+}
+@media(max-width:500px){
+    .main_pizza_img{
+        margin-right:15px;
+    }
+    .comment_title{
+        font-size: 8px;
+        margin-bottom: 5px;
+        }
+    .comment_text{
+        font-size: 5px;
+        line-height: 10px;
+        }
+    .comment_img{
+        margin-bottom: 15px;
+        width:100%;
+        width:100px;
+        height:100px;
+    }
+
+}
+@media(max-width:480px){
+    .main_pizza_img{
+        margin-right:10px;
+    }
+    .main_menu_text{
+        font-size: 6px;
+    }
+    .main_menu_item_title{
+        font-size: 10px;
+    }
+    .main_menu_item_img{
+        width: 100px;
+        height: 60px;
+    }
+    .discount_img{
+        width:20px;
+        height:20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 8px;
+    }
+}
+@media(max-width:422px){
+    .main_top_title{
+        margin-bottom: 10px;
+        font-size: 10px;
+    }
+    .main_top_text{
+        font-size: 6px;
+        line-height: 10px;
+    }
+    .main_top_name{
+        font-size: 10px;
+    }
+    .main_top_sign_img{
+        width:52px;
+        height:53px;
+    }
+    .comment_title{
+        font-size: 6px;
+        margin-bottom: 5px;
+        }
+    .comment_text{
+        font-size: 4px;
+        line-height: 6px;
+        }
+    .comment_img{
+        margin-bottom: 10px;
+        width:100%;
+        width:70px;
+        height:70px;
+    }
+}
+@media(max-width:375px){
+    .header_logo{
+        font-size: 12px;
+        }
+        .phone{
+            font-size: 9px;
+            margin-right:15px;
+        }
+        .header_button{
+        padding:8px 12px;
+        border-radius:50px;
+        }
+        .main_menu_item{
+            margin-bottom: 20px;
+        }
+        .main_button{
+        font-size: 5px;
+        padding:5px 8px;
+        }
+        .price{
+        font-size: 8px;
+        }
+        .price_num{
+        font-size: 6px;
+        }
+}
+@media(max-width:340px)
+{
+    .header{
+    margin-bottom: 30px;
+    }
+    .main_top{
+        margin-bottom: 20px;
+    }
+    .main_menu_title{
+        font-size: 20px;
+        margin-bottom: 15px;
+     }
+     .main_menu_item_title{
+        font-size: 8px;
+        }
+        .main_menu_text{
+            font-size: 5px;
+        }
+    .comment_title{
+        font-size: 5px;
+        margin-bottom: 3px;
+        }
+    .comment_text{
+        font-size: 4px;
+        line-height: 6px;
+        }
+    .comment_img{
+        margin-bottom: 8px;
+        width:100%;
+        width:50px;
+        height:50px;
+    }
+    .main{
+        margin-bottom: 20px;
+    }
+    .main_menu_item{
+        margin-bottom: 5px;
+    }
+    .header_logo{
+        font-size: 10px;
+        }
+        .phone{
+            font-size: 6px;
+            margin-right:10px;
+        }
+        .header_button{
+        padding:5px 10px;
+        border-radius:50px;
+        font-size: 8px;
+        }
+
+        .header_bottom{
+            line-height: 20px;
+            }
+            .header_bottom_text{
+                font-size: 10px;
+            }
+            .header_bottom_title{
+                font-size: 20px;
+                
+            }
+            .header_bottom_price{
+                font-size: 8px;
+            }
+            .main_button{
+                font-size: 4px;
+                padding:3px 5px;
+            }
+            .price{
+                font-size: 5px;
+                }
+            .price_num{
+            font-size: 4px;
+            }
+            .main_menu_item_img{
+                width: 80px;
+                height: 45px;
+            }
+            .discount_img{
+                width:15px;
+                height:15px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-size: 5px;
+            }
+}
