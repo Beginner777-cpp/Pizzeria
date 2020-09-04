@@ -237,6 +237,9 @@ text-transform: uppercase;
     font-size: 14px;
     color:var(--grey);
 }
+.main_menu_text:hover{
+    text-shadow:1px 1px 2px black;
+}
 .price{
     text-align: right;
     font-family: var(--f_light);
