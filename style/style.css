@@ -222,9 +222,6 @@ align-items: flex-start;
    font-size: 36px;
    margin-bottom: 50px;
 }
-.main_pizza_img{
-    margin-right:30px;
-}
 
 .main_menu_item_title{
 font-family: var(--f_bold);
@@ -236,9 +233,6 @@ text-transform: uppercase;
 .main_menu_text{
     font-size: 14px;
     color:var(--grey);
-}
-.main_menu_text:hover{
-    text-shadow:0px 0px 3px #ff0000;
 }
 .price{
     text-align: right;
