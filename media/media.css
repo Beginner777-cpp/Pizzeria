@@ -1,5 +1,5 @@
 
-@media(max-width: 768px){
+@media(max-width: 920px){
     .main_menu_item_title{
         font-size: 20px;   
     }
@@ -21,7 +21,7 @@
     }
 }
 
-@media(max-width: 600px){
+@media(max-width: 640px){
     .header_logo{
         font-size: 20px;
         }
@@ -102,7 +102,7 @@
         }
 }
 
-@media(max-width: 480px){
+@media(max-width: 540px){
         .header_logo{
         font-size: 15px;
         }
@@ -146,7 +146,7 @@
         }
 }
 
-@media(max-width: 320px){
+@media(max-width: 480px){
         .header_logo{
         font-size: 12px;
         }
